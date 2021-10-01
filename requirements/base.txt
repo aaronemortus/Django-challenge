@@ -1,0 +1,8 @@
+Django==3.2.7
+django-filter==2.4.0
+django-import-export==2.6.0
+djangorestframework==3.12.4
+Markdown==3.3.4
+mysqlclient==2.0.3
+python-decouple==3.4
+requests==2.26.0
