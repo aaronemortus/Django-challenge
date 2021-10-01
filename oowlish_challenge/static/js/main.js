@@ -67,15 +67,15 @@ $(document).ready(function(){
         "columnDefs": [
            {
              "targets": [ 5 ],
-             "visible": true,
+             "visible": false,
            },
            {
              "targets": [ 9 ],
-             "visible": true
+             "visible": false
            },
            {
              "targets": [ 10 ],
-             "visible": true
+             "visible": false
            }
          ]
        } );
