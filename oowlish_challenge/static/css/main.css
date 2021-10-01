@@ -1,0 +1,19 @@
+thead,
+.details-table,
+.page-item.active .page-link {
+  background-color: #ff931e;
+  border-color: #ff931e;
+}
+h1,
+.page-link {
+  color: #ff931e;
+}
+.details-control i {
+  cursor: pointer;
+}
+.detail-shown i {
+  color: #ff931e;
+}
+.details-table tr td:first-of-type {
+  font-weight: bold;
+}
