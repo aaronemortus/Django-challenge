@@ -1,4 +1,4 @@
-# oowlish-challenge
+# Django-challenge
 ## Stack
  1. Django 3.2.7
  2. Python 3.6.8
